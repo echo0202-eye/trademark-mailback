@@ -1,0 +1,23 @@
+{
+  "name": "trademark-mailback",
+  "displayName": "商标退信查询",
+  "version": "1.0.0",
+  "description": "查询中国商标退信（送达公告）数据。按公司名、商标或注册号检索退信记录，返回公告期号、公告日期、发文类型、处理期限与公告原件。",
+  "author": {
+    "name": "北京朱门商标代理服务有限公司",
+    "url": "https://www.zhumen.com.cn"
+  },
+  "homepage": "https://www.zhumen.com.cn",
+  "license": "MIT",
+  "keywords": [
+    "商标",
+    "退信",
+    "送达公告",
+    "知识产权",
+    "trademark",
+    "mailback"
+  ],
+  "skills": [
+    "skills/trademark-mailback"
+  ]
+}
