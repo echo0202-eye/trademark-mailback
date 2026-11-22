@@ -1,0 +1,20 @@
+{
+  "name": "trademark-tools",
+  "owner": {
+    "name": "北京朱门商标代理服务有限公司",
+    "url": "https://www.zhumen.com.cn"
+  },
+  "plugins": [
+    {
+      "name": "trademark-mailback",
+      "source": "./",
+      "description": "查询中国商标退信（送达公告）数据。按公司名检索退信记录，返回公告期号、日期、商标名、注册号、发文类型、期限与公告原件。",
+      "version": "1.0.0",
+      "author": {
+        "name": "北京朱门商标代理服务有限公司",
+        "url": "https://www.zhumen.com.cn"
+      },
+      "keywords": ["商标", "退信", "送达公告", "知识产权", "trademark"]
+    }
+  ]
+}
